@@ -1,4 +1,4 @@
-# Hotel-Revenue-Insights
+# Hotel-Revenue-Insights-Analysis
 
 ## Introduction
 
