@@ -25,4 +25,4 @@ In this era of data-driven decision-making, hotel revenue insights data play a p
 
 ## Dashboard
 
-![](Revenue.png)
+![](Revenue1.png)
